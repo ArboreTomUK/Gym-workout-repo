@@ -30,10 +30,10 @@ Priority muscles are dosed in **strict descending order** of the stated priority
 | **Triceps** | #3 | **9** | Mon 3 · Thu 6 (pushdown 3 + OH ext 3) |
 | **Glutes** | #4 | **8** | Tue hip thrust 3 · Fri split squat 3 + hip thrust 2 |
 | Back (lats/upper) | — | 12 | Mon pulldown 3 + row 3 · Thu pull-up 3 + row 3 |
-| Shoulders | — | 6 | Thu OHP 3 + lateral raise 3 |
+| Shoulders | — | 9 | Mon rear-delt face pull 3 · Thu OHP 3 + lateral raise 3 |
 | Hamstrings | — | 9 | Tue RDL 3 + leg curl 3 · Fri RDL 3 |
 | Quads | — | 6 | Tue leg press 3 · Fri squat 3 (+ split squat) |
-| Calves | — | 9 | Tue 3 · Fri 3 · (+ swings) |
+| Calves | — | 6 | Tue 3 · Fri 3 (swings add indirect work) |
 
 **Priority hierarchy holds:** Chest (12) > Abs (11) > Arms (9) > Glutes (8). Glutes also receive heavy **indirect** loading from RDLs (×2/week), back squat, and kettlebell swings, so their effective stimulus is well above the 8 direct sets. Hamstrings, quads, back and shoulders are non-priorities kept at sane, recoverable volumes.
 
@@ -85,9 +85,9 @@ Hypertrophy doesn't excuse you from cardiovascular health, and better aerobic fi
 | D | Seated cable row | 3 × 10–12 | Back | 90 sec |
 | E | Cable fly | 3 × 12–15 | Chest | 60 sec |
 | F | **SS:** EZ-bar curl + cable triceps pushdown | 3 × 10–12 each | Bi / Tri | 60–75 sec |
-| G | Hanging / lying leg raise | 3 × 10–15 | Abs | 60 sec |
+| G | **SS:** Hanging / lying leg raise + cable face pull (rear delts) | 3 × 10–15 / 12–15 | Abs / Rear delts | 60 sec |
 
-**Chest today: 9 · Est. ~68 min incl. warm-up.**
+**Chest today: 9 · Est. ~70 min incl. warm-up.**
 
 ## DAY 2 — TUESDAY · Lower A (Posterior / glute + conditioning)
 | # | Exercise | Sets × Reps | Target | Rest |
@@ -124,7 +124,7 @@ Hypertrophy doesn't excuse you from cardiovascular health, and better aerobic fi
 | D | Barbell or DB hip thrust | 2 × 10–12 | Glutes | 90 sec |
 | E | Seated / standing calf raise | 3 × 12–15 | Calves | 60 sec |
 | F | Plank + hanging knee raise | 2 sets | Abs | 60 sec |
-| *opt* | *Farmer carry (DB/KB), 2 × 30–40 m* | *Grip / trunk / carry* | *as needed* |
+| G | Farmer carry (DB/KB) | 2 × 30–40 m | Grip / trunk / carry | 60 sec |
 
 **Glutes today: 5 direct (split squat 3 + hip thrust 2) · Est. ~70 min incl. warm-up.**
 
@@ -138,4 +138,4 @@ Hypertrophy doesn't excuse you from cardiovascular health, and better aerobic fi
 - **Recovery + conditioning programmed:** Protein, sleep, and Zone 2 are written into the plan as the levers that actually turn training into muscle.
 - **Time:** Antagonist supersets keep every session inside the 75-minute cap including warm-up.
 
-*Version 2 — addressing round-1 feedback from all four coach subagents.*
+*Version 2 — APPROVED by all four coach subagents (Norton, Israetel, Tsatsouline, Galpin) with zero blocking objections. This revision also folds in their non-blocking refinements: corrected calf count, added rear-delt face pulls for balance, and promoted the farmer carry to a standard movement.*

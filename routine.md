@@ -1,101 +1,141 @@
-# 4-Day Hypertrophy Program — v1
+# 4-Day Hypertrophy Program — v2
 
 ## Lifter profile
 - **Experience:** Beginner (< ~1 year consistent training)
 - **Primary goal:** Whole-body muscle growth, prioritising **chest → abs → arms → glutes** (in that order)
 - **Schedule:** Train Mon / Tue / Thu / Fri. Rest Wed / Sat / Sun.
-- **Session cap:** ≤ 1 hr 15 min door-to-door (≈ 8 min warm-up + ~62 min work + buffer)
+- **Session cap:** ≤ 1 hr 15 min door-to-door (≈ 10 min warm-up + ~60 min work, supersets used to stay inside the cap)
 - **Available equipment:** Barbell + power rack, adjustable bench, full dumbbell set, kettlebells, cable/pulley station, lat pulldown + seated row, leg machines (press / curl / extension), pull-up + dip station.
 
 ## Guiding principles
-- **Split:** Upper / Lower, run twice per week (Upper A, Lower A, Upper B, Lower B). This gives each muscle 2 stimulating sessions/week — strong fit for a beginner.
-- **Effort:** Stop each set with **2–3 reps in reserve (RIR)** while you learn technique. As a beginner you do not need to train to failure to grow.
-- **Progression (double progression):** Pick a rep range (e.g. 8–12). Keep the load until you hit the **top** of the range on **all** sets at the prescribed RIR, then add the smallest increment (2.5 kg barbell / next dumbbell / one plate on a machine) and work back up.
-- **Tempo / ROM:** Controlled lowering (~2 sec), full range of motion on every rep. No bouncing.
-- **Rest:** ~2–3 min on compound lifts, ~60–90 sec on isolation/accessory work.
+- **Split:** Upper / Lower run twice per week (Upper A, Lower A, Upper B, Lower B). Every muscle gets 2 stimulating sessions/week — the best structure for a beginner.
+- **Effort (RIR):** Stop sets short of failure. See the mesocycle table below — you start the block at **3 RIR** and grind closer to failure (down to ~1 RIR) as the weeks accumulate.
+- **Progression (two layers):**
+  1. **Within a block — double progression on load.** Pick the rep range. Keep the load until you hit the **top** of the range on **all** sets at the prescribed RIR, then add the smallest increment (2.5 kg barbell / next dumbbell / one plate on a machine) and work back up.
+  2. **Across the block — volume + intensity ramp.** Sets and effort climb week to week per the mesocycle plan, then a deload resets fatigue.
+- **Tempo / ROM:** ~2 sec controlled lowering, full range with a stretch under load on every rep. No bouncing, no ego loading.
+- **Rest:** ~2–3 min on heavy compounds, ~60–90 sec on isolation. Supersets (marked **SS**) are antagonist pairs — alternate them with ~60–75 sec between to save time without sacrificing quality.
 - **Logbook:** Record load, sets, reps and RIR every session. Progression is the goal, not soreness.
-- **Deload:** Every 6–8 weeks (or when joints/sleep/performance decline), take 1 week at ~50% of normal sets.
-
-## Weekly direct-set volume (target landmarks for a beginner)
-| Muscle | Direct sets/week | Notes |
-|---|---|---|
-| Chest | ~11 | Priority #1 |
-| Abs | ~12 | Priority #2 |
-| Biceps | ~7 | Priority #3 (+ indirect from pulls) |
-| Triceps | ~7 | Priority #3 (+ indirect from presses) |
-| Glutes | ~9 | Priority #4 (+ indirect from squat/RDL) |
-| Back (lats/upper) | ~12 | Posture / balance |
-| Quads | ~6 | |
-| Hamstrings | ~6 | |
-| Shoulders | ~6 | (+ indirect from pressing) |
-| Calves | ~6 | |
-
-All numbers sit inside beginner-appropriate ranges (~6–12 sets/muscle/week) with extra leaned toward the four priority areas.
 
 ---
 
-## Warm-up (every session, ~8 min)
+## Weekly direct-set volume (counted directly from the sessions below)
+Priority muscles are dosed in **strict descending order** of the stated priority, and every priority muscle sits at or above its minimum effective volume (MEV ≈ 8 sets for a beginner).
+
+| Muscle | Priority | Direct sets/week | Where |
+|---|---|---|---|
+| **Chest** | #1 | **12** | Mon: bench 3 + incline 3 + fly 3 · Thu: incline 3 |
+| **Abs** | #2 | **11** | Mon 3 · Tue 3 · Thu 3 · Fri 2 |
+| **Biceps** | #3 | **9** | Mon 3 · Thu 6 (curl 3 + hammer 3) |
+| **Triceps** | #3 | **9** | Mon 3 · Thu 6 (pushdown 3 + OH ext 3) |
+| **Glutes** | #4 | **8** | Tue hip thrust 3 · Fri split squat 3 + hip thrust 2 |
+| Back (lats/upper) | — | 12 | Mon pulldown 3 + row 3 · Thu pull-up 3 + row 3 |
+| Shoulders | — | 6 | Thu OHP 3 + lateral raise 3 |
+| Hamstrings | — | 9 | Tue RDL 3 + leg curl 3 · Fri RDL 3 |
+| Quads | — | 6 | Tue leg press 3 · Fri squat 3 (+ split squat) |
+| Calves | — | 9 | Tue 3 · Fri 3 · (+ swings) |
+
+**Priority hierarchy holds:** Chest (12) > Abs (11) > Arms (9) > Glutes (8). Glutes also receive heavy **indirect** loading from RDLs (×2/week), back squat, and kettlebell swings, so their effective stimulus is well above the 8 direct sets. Hamstrings, quads, back and shoulders are non-priorities kept at sane, recoverable volumes.
+
+---
+
+## Mesocycle progression (6-week block, then deload)
+A program is a trajectory, not one repeated week. Run this as a **6-week accumulation block**, then a deload, then restart heavier.
+
+| Weeks | Priority-muscle sets | RIR (effort) | Load |
+|---|---|---|---|
+| **1–2** (intro) | As listed above (start point) | **3 RIR** | Conservative; nail technique |
+| **3–4** (build) | **+1 set** to each priority muscle (chest, abs, arms; add the extra set to the Thu emphasis day) | **2 RIR** | Apply double progression as you adapt |
+| **5** (peak) | **+1 more set** to chest and arms | **1 RIR** | Heaviest loads of the block |
+| **6** (deload) | ~50% of sets, easy | 4–5 RIR | Drop load ~10–20% |
+
+So chest climbs ~12 → 13 → 14 sets across the block, arms ~9 → 10 → 11, before the deload resets fatigue. Non-priority muscles hold steady. After the deload, begin a new block from slightly higher loads. Take a deload sooner if sleep, joints, or bar speed decline.
+
+---
+
+## Recovery & lifestyle (these ARE part of the program)
+Muscle is built on stimulus **plus** recovery. Treat these as prescribed:
+- **Protein:** ~**1.6–2.2 g per kg bodyweight per day**, spread across 3–4 meals. This is the substrate for growth — non-negotiable for hypertrophy.
+- **Sleep:** **7–9 hours/night.** Sleep is the primary anabolic signal; under-sleeping blunts everything above.
+- **Calories:** A slight surplus (~+5–10%) supports muscle gain as a beginner; hydrate well.
+- **Inter-session recovery:** The Mon/Tue/Thu/Fri layout never repeats a hard session for the same tissue on consecutive days. If a muscle is still very sore at its next session, reduce that day's load slightly.
+
+## Conditioning / general health (programmed, not optional)
+Hypertrophy doesn't excuse you from cardiovascular health, and better aerobic fitness improves between-set and between-session recovery:
+- **2 × 20–30 min Zone 2** (easy bike/row/walk, conversational pace) on rest days (e.g. Wed + Sat) or after a lifting session.
+- The **kettlebell swings** on lower days double as low-fatigue conditioning.
+- Keep it easy — Zone 2 should not interfere with lifting recovery.
+
+---
+
+## Warm-up (every session, ~10 min)
 1. 3–4 min easy cardio (bike/row) to raise core temp.
-2. Dynamic mobility for the day's primary joints (shoulders/hips).
-3. 2 ramp-up sets on the first compound lift (empty bar → ~60% → working weight).
+2. **Turkish get-up — 2–3 reps/side, light** (kettlebell or dumbbell). Full-body tension, shoulder stability, and movement prep in one.
+3. Dynamic mobility for the day's primary joints (shoulders/hips).
+4. 2 ramp-up sets on the first compound lift (empty bar → ~60% → working weight).
 
 ---
 
-## DAY 1 — MONDAY · Upper A (Chest emphasis)
-| # | Exercise | Sets × Reps | RIR | Rest |
+## DAY 1 — MONDAY · Upper A (Chest emphasis + arms)
+| # | Exercise | Sets × Reps | Target | Rest |
 |---|---|---|---|---|
-| A | Barbell bench press | 3 × 6–8 | 2–3 | 2–3 min |
-| B | Incline dumbbell press | 3 × 8–12 | 2–3 | 2 min |
-| C | Lat pulldown | 3 × 8–12 | 2–3 | 90 sec |
-| D | Seated cable row | 3 × 10–12 | 2 | 90 sec |
-| E | Cable fly (chest) | 2 × 12–15 | 1–2 | 60 sec |
-| F | Hanging / lying leg raise (abs) | 3 × 10–15 | 1–2 | 60 sec |
+| A | Barbell bench press | 3 × 6–8 | Chest | 2–3 min |
+| B | Incline dumbbell press | 3 × 8–12 | Chest | 2 min |
+| C | Lat pulldown | 3 × 8–12 | Back | 90 sec |
+| D | Seated cable row | 3 × 10–12 | Back | 90 sec |
+| E | Cable fly | 3 × 12–15 | Chest | 60 sec |
+| F | **SS:** EZ-bar curl + cable triceps pushdown | 3 × 10–12 each | Bi / Tri | 60–75 sec |
+| G | Hanging / lying leg raise | 3 × 10–15 | Abs | 60 sec |
 
-**Est. working time:** ~58 min. Chest sets today: 8.
+**Chest today: 9 · Est. ~68 min incl. warm-up.**
 
-## DAY 2 — TUESDAY · Lower A (Glute emphasis)
-| # | Exercise | Sets × Reps | RIR | Rest |
+## DAY 2 — TUESDAY · Lower A (Posterior / glute + conditioning)
+| # | Exercise | Sets × Reps | Target | Rest |
 |---|---|---|---|---|
-| A | Barbell hip thrust | 3 × 8–12 | 2–3 | 2–3 min |
-| B | Romanian deadlift (DB or barbell) | 3 × 8–10 | 2–3 | 2 min |
-| C | Leg press | 3 × 10–12 | 2 | 2 min |
-| D | Seated leg curl | 3 × 10–12 | 2 | 90 sec |
-| E | Standing calf raise | 3 × 12–15 | 1–2 | 60 sec |
-| F | Cable crunch (abs) | 3 × 12–15 | 1–2 | 60 sec |
+| A | **Kettlebell swing** | 3 × 15–20 | Glutes / hinge / conditioning | 75 sec |
+| B | Barbell hip thrust | 3 × 8–12 | Glutes | 2 min |
+| C | Romanian deadlift (barbell) | 3 × 8–10 | Hamstrings / hinge **#1** | 2–3 min |
+| D | Leg press | 3 × 10–12 | Quads | 2 min |
+| E | Seated leg curl | 3 × 10–12 | Hamstrings | 90 sec |
+| F | Standing calf raise | 3 × 12–15 | Calves | 60 sec |
+| G | Cable crunch | 3 × 12–15 | Abs | 60 sec |
 
-**Est. working time:** ~60 min. Glute sets today: 6 (hip thrust + RDL).
+**Glutes today: 3 direct (+ swings + RDL) · Est. ~68 min incl. warm-up.**
 
-## DAY 3 — THURSDAY · Upper B (Arms emphasis)
-| # | Exercise | Sets × Reps | RIR | Rest |
+## DAY 3 — THURSDAY · Upper B (Arms emphasis + chest 2nd dose)
+| # | Exercise | Sets × Reps | Target | Rest |
 |---|---|---|---|---|
-| A | Seated dumbbell overhead press | 3 × 8–10 | 2–3 | 2 min |
-| B | Incline dumbbell press (chest 2nd dose) | 3 × 8–12 | 2–3 | 2 min |
-| C | Assisted / band pull-up | 3 × 6–10 | 2–3 | 2 min |
-| D | EZ-bar or dumbbell biceps curl | 3 × 10–12 | 1–2 | 75 sec |
-| E | Cable triceps pushdown | 3 × 10–12 | 1–2 | 75 sec |
-| F | Hammer curl ⟂ overhead DB extension (superset) | 2 × 12–15 each | 1–2 | 60 sec |
-| G | Cable / weighted crunch (abs) | 3 × 12–15 | 1–2 | 60 sec |
+| A | Seated dumbbell overhead press | 3 × 8–10 | Shoulders | 2 min |
+| B | Incline dumbbell press | 3 × 8–12 | Chest | 2 min |
+| C | Assisted / band pull-up | 3 × 6–10 | Back | 2 min |
+| D | Chest-supported / seated row | 3 × 10–12 | Back | 90 sec |
+| E | **SS:** DB/EZ biceps curl + cable triceps pushdown | 3 × 10–12 each | Bi / Tri | 60–75 sec |
+| F | **SS:** Hammer curl + overhead DB triceps extension | 3 × 12–15 each | Bi / Tri | 60–75 sec |
+| G | **SS:** DB lateral raise + weighted crunch | 3 × 12–15 each | Delts / Abs | 60 sec |
 
-**Est. working time:** ~62 min. Biceps: 5 direct, Triceps: 5 direct, Chest: +3.
+**Biceps: 6 · Triceps: 6 · Chest +3 · Est. ~72 min incl. warm-up.**
 
-## DAY 4 — FRIDAY · Lower B (Glute emphasis + posterior)
-| # | Exercise | Sets × Reps | RIR | Rest |
+## DAY 4 — FRIDAY · Lower B (Squat / quad + glute + hinge #2)
+| # | Exercise | Sets × Reps | Target | Rest |
 |---|---|---|---|---|
-| A | Barbell back squat | 3 × 6–8 | 2–3 | 2–3 min |
-| B | Dumbbell Bulgarian split squat | 3 × 8–12 / leg | 2–3 | 2 min |
-| C | Barbell or DB hip thrust | 3 × 10–12 | 2 | 2 min |
-| D | Leg extension | 2 × 12–15 | 1–2 | 75 sec |
-| E | Seated / standing calf raise | 3 × 12–15 | 1–2 | 60 sec |
-| F | Plank + hanging knee raise (abs) | 3 sets | 1–2 | 60 sec |
+| A | Barbell back squat | 3 × 6–8 | Quads / glutes | 2–3 min |
+| B | Romanian deadlift (barbell) | 3 × 8–10 | Hamstrings / hinge **#2** | 2–3 min |
+| C | Dumbbell Bulgarian split squat | 3 × 8–12 / leg | Glutes | 2 min |
+| D | Barbell or DB hip thrust | 2 × 10–12 | Glutes | 90 sec |
+| E | Seated / standing calf raise | 3 × 12–15 | Calves | 60 sec |
+| F | Plank + hanging knee raise | 2 sets | Abs | 60 sec |
+| *opt* | *Farmer carry (DB/KB), 2 × 30–40 m* | *Grip / trunk / carry* | *as needed* |
 
-**Est. working time:** ~60 min. Glute sets today: 6 (split squat + hip thrust) + squat indirect.
+**Glutes today: 5 direct (split squat 3 + hip thrust 2) · Est. ~70 min incl. warm-up.**
 
 ---
 
-## Why this should work for you
-- **Frequency:** Every muscle is trained ~2×/week, which beginners respond to best.
-- **Priority weighting:** Chest gets the most direct volume (11 sets) and a premium slot (fresh, first) twice a week; abs are hit every session; arms get a dedicated emphasis day plus indirect work; glutes are loaded heavily across both lower days.
-- **Recovery:** The Wed / Sat / Sun rest pattern separates the two upper and two lower days so nothing trained hard is repeated on consecutive days.
-- **Time:** Every session is built to finish inside the 75-minute cap including warm-up.
+## Why this works for you
+- **Frequency:** Every muscle trained ~2×/week — the beginner sweet spot.
+- **Priority, expressed as volume AND sequencing:** Chest gets the most direct volume (12) and the freshest slots; abs every session (11); arms get a dedicated emphasis day to reach 9 each (above glutes, matching the stated order); glutes get 8 direct plus heavy indirect loading.
+- **Strength foundation:** Real strength rep ranges (6–8) loaded fresh and first on bench and squat; two weekly barbell-hinge exposures (RDL Tue + Fri); kettlebell swings and Turkish get-ups put the available bells to work.
+- **A real block, not a static week:** Volume and effort ramp across 6 weeks, then deload.
+- **Recovery + conditioning programmed:** Protein, sleep, and Zone 2 are written into the plan as the levers that actually turn training into muscle.
+- **Time:** Antagonist supersets keep every session inside the 75-minute cap including warm-up.
 
-*Version 1 — pending review by the four coach subagents.*
+*Version 2 — addressing round-1 feedback from all four coach subagents.*

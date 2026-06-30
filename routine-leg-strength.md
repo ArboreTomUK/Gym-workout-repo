@@ -64,6 +64,8 @@ Counting rule: hip thrust, glute-focused back extension, and Bulgarian split squ
 
 When linear weekly jumps stop working (usually a couple of months in), that's the cue to move the main lifts onto the **DUP intensities the layout already supports** (heavier/lower-rep on one day, moderate on another). Take a deload sooner if sleep, joints, or bar speed decline.
 
+**Where to add volume first (build weeks):** if she's recovering well, the first extra set goes to the hip thrust (cap the in-mesocycle glute build at ~+2 sets before the deload). The next is a **third weekly leg-curl exposure** — hamstrings are the leanest leg muscle here (much of their 9 sets comes from the deadlift, where they work at short length), so an added direct curl is the highest-value addition after glutes.
+
 ---
 
 ## Recovery & lifestyle (part of the program)
@@ -147,4 +149,4 @@ Built in across the week without compromising leg recovery:
 - **Cardio she enjoys, sequenced smartly.** Zone 2 as active recovery (Tue), explosive swing/HIIT conditioning before the weekend (Fri), optional easy weekend mileage — variety without hurting leg recovery.
 - **No wasted effort.** Upper body kept to light maintenance only, matching her brief and keeping every session inside the 75-minute cap.
 
-*Version 2 — addressing round-1 feedback: added the kettlebell swing as an explosive hinge/glute movement (Pavel's blocking objection), reconciled the volume table with the sessions, added the Tuesday seated row, a Thursday→Friday recovery release valve, a permission-to-trim rule, and a 6-week performance checkpoint.*
+*Version 2 — APPROVED by all four coach subagents (Norton, Israetel, Tsatsouline, Galpin) with zero blocking objections. This revision addressed round-1 feedback: added the kettlebell swing as an explosive hinge/glute movement (Pavel's blocking objection), reconciled the volume table with the sessions, added the Tuesday seated row, a Thursday→Friday recovery release valve, a permission-to-trim rule, a 6-week performance checkpoint, and guidance on where to add volume first (hip thrust, then a third leg-curl exposure).*

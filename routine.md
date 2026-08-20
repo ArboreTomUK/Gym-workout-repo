@@ -1,10 +1,10 @@
-# 4-Day Hypertrophy Program — v2
+# 4-Day Hypertrophy Program — v3
 
 ## Lifter profile
 - **Experience:** Beginner (< ~1 year consistent training)
 - **Primary goal:** Whole-body muscle growth, prioritising **chest → abs → arms → glutes** (in that order)
 - **Schedule:** Train Mon / Tue / Thu / Fri. Rest Wed / Sat / Sun.
-- **Session cap:** ≤ 1 hr 15 min door-to-door (≈ 10 min warm-up + ~60 min work, supersets used to stay inside the cap)
+- **Session cap:** ≤ 1 hr 15 min door-to-door (≈ 10 min warm-up + ~60 min work, all straight sets — no supersets)
 - **Available equipment:** Barbell + power rack, adjustable bench, full dumbbell set, kettlebells, cable/pulley station, lat pulldown + seated row, leg machines (press / curl / extension), pull-up + dip station.
 
 ## Guiding principles
@@ -14,7 +14,7 @@
   1. **Within a block — double progression on load.** Pick the rep range. Keep the load until you hit the **top** of the range on **all** sets at the prescribed RIR, then add the smallest increment (2.5 kg barbell / next dumbbell / one plate on a machine) and work back up.
   2. **Across the block — volume + intensity ramp.** Sets and effort climb week to week per the mesocycle plan, then a deload resets fatigue.
 - **Tempo / ROM:** ~2 sec controlled lowering, full range with a stretch under load on every rep. No bouncing, no ego loading.
-- **Rest:** ~2–3 min on heavy compounds, ~60–90 sec on isolation. Supersets (marked **SS**) are antagonist pairs — alternate them with ~60–75 sec between to save time without sacrificing quality.
+- **Rest:** ~2–3 min on heavy compounds, ~60–90 sec on isolation, taken as straight sets — full rest before moving to the next exercise, no supersets.
 - **Logbook:** Record load, sets, reps and RIR every session. Progression is the goal, not soreness.
 
 ---
@@ -29,13 +29,13 @@ Priority muscles are dosed in **strict descending order** of the stated priority
 | **Biceps** | #3 | **9** | Mon 3 · Thu 6 (curl 3 + hammer 3) |
 | **Triceps** | #3 | **9** | Mon 3 · Thu 6 (pushdown 3 + OH ext 3) |
 | **Glutes** | #4 | **8** | Tue hip thrust 3 · Fri split squat 3 + hip thrust 2 |
-| Back (lats/upper) | — | 12 | Mon pulldown 3 + row 3 · Thu pull-up 3 + row 3 |
-| Shoulders | — | 9 | Mon rear-delt face pull 3 · Thu OHP 3 + lateral raise 3 |
+| Back (lats/upper) | — | 9 | Mon pulldown 3 + row 2 · Thu pull-up 2 + row 2 |
+| Shoulders | — | 7 | Mon rear-delt face pull 2 · Thu OHP 3 + lateral raise 2 |
 | Hamstrings | — | 9 | Tue RDL 3 + leg curl 3 · Fri RDL 3 |
 | Quads | — | 6 | Tue leg press 3 · Fri squat 3 (+ split squat) |
 | Calves | — | 6 | Tue 3 · Fri 3 (swings add indirect work) |
 
-**Priority hierarchy holds:** Chest (12) > Abs (11) > Arms (9) > Glutes (8). Glutes also receive heavy **indirect** loading from RDLs (×2/week), back squat, and kettlebell swings, so their effective stimulus is well above the 8 direct sets. Hamstrings, quads, back and shoulders are non-priorities kept at sane, recoverable volumes.
+**Priority hierarchy holds:** Chest (12) > Abs (11) > Arms (9) > Glutes (8) — unchanged from v2. Glutes also receive heavy **indirect** loading from RDLs (×2/week), back squat, and kettlebell swings, so their effective stimulus is well above the 8 direct sets. Hamstrings, quads, back and shoulders are non-priorities kept at sane, recoverable volumes; back and shoulders were trimmed slightly in v3 (see below) to buy back the time lost when supersets were removed, without touching any priority muscle's volume.
 
 ---
 
@@ -82,12 +82,14 @@ Hypertrophy doesn't excuse you from cardiovascular health, and better aerobic fi
 | A | Barbell bench press | 3 × 6–8 | Chest | 2–3 min |
 | B | Incline dumbbell press | 3 × 8–12 | Chest | 2 min |
 | C | Lat pulldown | 3 × 8–12 | Back | 90 sec |
-| D | Seated cable row | 3 × 10–12 | Back | 90 sec |
+| D | Seated cable row | 2 × 10–12 | Back | 90 sec |
 | E | Cable fly | 3 × 12–15 | Chest | 60 sec |
-| F | **SS:** EZ-bar curl + cable triceps pushdown | 3 × 10–12 each | Bi / Tri | 60–75 sec |
-| G | **SS:** Hanging / lying leg raise + cable face pull (rear delts) | 3 × 10–15 / 12–15 | Abs / Rear delts | 60 sec |
+| F | Cable triceps pushdown | 3 × 10–12 | Triceps | 60 sec |
+| G | EZ-bar curl | 3 × 10–12 | Biceps | 60 sec |
+| H | Cable face pull | 2 × 12–15 | Rear delts | 60 sec |
+| I | Hanging / lying leg raise | 3 × 10–15 | Abs | 60 sec |
 
-**Chest today: 9 · Est. ~70 min incl. warm-up.**
+**Chest today: 9 · Est. ~74 min incl. warm-up.**
 
 ## DAY 2 — TUESDAY · Lower A (Posterior / glute + conditioning)
 | # | Exercise | Sets × Reps | Target | Rest |
@@ -107,13 +109,16 @@ Hypertrophy doesn't excuse you from cardiovascular health, and better aerobic fi
 |---|---|---|---|---|
 | A | Seated dumbbell overhead press | 3 × 8–10 | Shoulders | 2 min |
 | B | Incline dumbbell press | 3 × 8–12 | Chest | 2 min |
-| C | Assisted / band pull-up | 3 × 6–10 | Back | 2 min |
-| D | Chest-supported / seated row | 3 × 10–12 | Back | 90 sec |
-| E | **SS:** DB/EZ biceps curl + cable triceps pushdown | 3 × 10–12 each | Bi / Tri | 60–75 sec |
-| F | **SS:** Hammer curl + overhead DB triceps extension | 3 × 12–15 each | Bi / Tri | 60–75 sec |
-| G | **SS:** DB lateral raise + weighted crunch | 3 × 12–15 each | Delts / Abs | 60 sec |
+| C | Assisted / band pull-up | 2 × 6–10 | Back | 2 min |
+| D | Chest-supported / seated row | 2 × 10–12 | Back | 90 sec |
+| E | Cable triceps pushdown | 3 × 10–12 | Triceps | 75 sec |
+| F | DB/EZ biceps curl | 3 × 10–12 | Biceps | 75 sec |
+| G | Overhead DB triceps extension | 3 × 12–15 | Triceps | 60 sec |
+| H | Hammer curl | 3 × 12–15 | Biceps | 60 sec |
+| I | DB lateral raise | 2 × 12–15 | Shoulders | 60 sec |
+| J | Weighted crunch | 3 × 12–15 | Abs | 60 sec |
 
-**Biceps: 6 · Triceps: 6 · Chest +3 · Est. ~72 min incl. warm-up.**
+**Biceps: 6 · Triceps: 6 · Chest +3 · Est. ~74 min incl. warm-up.**
 
 ## DAY 4 — FRIDAY · Lower B (Squat / quad + glute + hinge #2)
 | # | Exercise | Sets × Reps | Target | Rest |
@@ -136,6 +141,6 @@ Hypertrophy doesn't excuse you from cardiovascular health, and better aerobic fi
 - **Strength foundation:** Real strength rep ranges (6–8) loaded fresh and first on bench and squat; two weekly barbell-hinge exposures (RDL Tue + Fri); kettlebell swings and Turkish get-ups put the available bells to work.
 - **A real block, not a static week:** Volume and effort ramp across 6 weeks, then deload.
 - **Recovery + conditioning programmed:** Protein, sleep, and Zone 2 are written into the plan as the levers that actually turn training into muscle.
-- **Time:** Antagonist supersets keep every session inside the 75-minute cap including warm-up.
+- **Time:** All work is done as straight sets (no supersets). To offset the rest time this adds back in, non-priority back (12→9 sets/week) and shoulder (9→7 sets/week) volume was trimmed — the priority hierarchy (chest 12 > abs 11 > arms 9/9 > glutes 8) is untouched, and every session still fits inside the ~75-minute cap including warm-up.
 
-*Version 2 — APPROVED by all four coach subagents (Norton, Israetel, Tsatsouline, Galpin) with zero blocking objections. This revision also folds in their non-blocking refinements: corrected calf count, added rear-delt face pulls for balance, and promoted the farmer carry to a standard movement.*
+*Version 3 — DRAFT, pending re-approval. This revision removes all supersets (every exercise is now a straight set); reordered each former pair so the larger/more technical movement comes first (pushdown before curl, face pull before leg raise, overhead extension before hammer curl, lateral raise before crunch); and trimmed non-priority back (12→9 sets/week) and shoulder (9→7 sets/week) volume to keep sessions inside the ≤75-min cap. The priority hierarchy — chest 12 > abs 11 > arms 9/9 > glutes 8 — is unchanged from v2.*

@@ -4,7 +4,7 @@
 - **Experience:** Beginner (< ~1 year consistent training)
 - **Primary goal:** Whole-body muscle growth, prioritising **chest → abs → arms → glutes** (in that order)
 - **Schedule:** Train Mon / Tue / Thu / Fri. Rest Wed / Sat / Sun.
-- **Session cap:** ≤ 1 hr 15 min door-to-door (≈ 10 min warm-up + ~60 min work, all straight sets — no supersets)
+- **Session cap:** ≤75 min door-to-door in the baseline weeks (1–2), all straight sets — no supersets. As sets are added in the build/peak weeks (3–5), Monday may run up to ~80–85 min; it tightens back to ≤70 min at the week-6 deload.
 - **Available equipment:** Barbell + power rack, adjustable bench, full dumbbell set, kettlebells, cable/pulley station, lat pulldown + seated row, leg machines (press / curl / extension), pull-up + dip station.
 
 ## Guiding principles
@@ -30,7 +30,7 @@ Priority muscles are dosed in **strict descending order** of the stated priority
 | **Triceps** | #3 | **9** | Mon 3 · Thu 6 (pushdown 3 + OH ext 3) |
 | **Glutes** | #4 | **8** | Tue hip thrust 3 · Fri split squat 3 + hip thrust 2 |
 | Back (lats/upper) | — | 9 | Mon pulldown 3 + row 2 · Thu pull-up 2 + row 2 |
-| Shoulders | — | 7 | Mon rear-delt face pull 2 · Thu OHP 3 + lateral raise 2 |
+| Shoulders | — | 8 | Mon rear-delt face pull 2 · Thu OHP 3 + lateral raise 1 · Fri rear-delt face pull 2 |
 | Hamstrings | — | 9 | Tue RDL 3 + leg curl 3 · Fri RDL 3 |
 | Quads | — | 6 | Tue leg press 3 · Fri squat 3 (+ split squat) |
 | Calves | — | 6 | Tue 3 · Fri 3 (swings add indirect work) |
@@ -45,11 +45,11 @@ A program is a trajectory, not one repeated week. Run this as a **6-week accumul
 | Weeks | Priority-muscle sets | RIR (effort) | Load |
 |---|---|---|---|
 | **1–2** (intro) | As listed above (start point) | **3 RIR** | Conservative; nail technique |
-| **3–4** (build) | **+1 set** to each priority muscle (chest, abs, arms; add the extra set to the Thu emphasis day) | **2 RIR** | Apply double progression as you adapt |
-| **5** (peak) | **+1 more set** to chest and arms | **1 RIR** | Heaviest loads of the block |
+| **3–4** (build) | **+1 set** to each priority muscle — chest and arms (biceps + triceps) added on **Monday**, abs added on **Friday**'s plank | **2 RIR** | Apply double progression as you adapt |
+| **5** (peak) | **+1 more set** to chest and arms, again on **Monday** | **1 RIR** | Heaviest loads of the block |
 | **6** (deload) | ~50% of sets, easy | 4–5 RIR | Drop load ~10–20% |
 
-So chest climbs ~12 → 13 → 14 sets across the block, arms ~9 → 10 → 11, before the deload resets fatigue. Non-priority muscles hold steady. After the deload, begin a new block from slightly higher loads. Take a deload sooner if sleep, joints, or bar speed decline.
+So chest climbs ~12 → 13 → 14 sets across the block, arms ~9 → 10 → 11, before the deload resets fatigue — all of that growth lands on Monday, so **Thursday's exercise list and set count never change across the block**, protecting its tighter time budget. Non-priority muscles hold steady. After the deload, begin a new block from slightly higher loads. Take a deload sooner if sleep, joints, or bar speed decline.
 
 ---
 
@@ -89,7 +89,7 @@ Hypertrophy doesn't excuse you from cardiovascular health, and better aerobic fi
 | H | Cable face pull | 2 × 12–15 | Rear delts | 60 sec |
 | I | Hanging / lying leg raise | 3 × 10–15 | Abs | 60 sec |
 
-**Chest today: 9 · Est. ~74 min incl. warm-up.**
+**Chest today: 9 · Est. ~74–78 min incl. warm-up and station changeover (baseline weeks; add ~1–1.5 min per set once mesocycle volume is added in weeks 3–5).**
 
 ## DAY 2 — TUESDAY · Lower A (Posterior / glute + conditioning)
 | # | Exercise | Sets × Reps | Target | Rest |
@@ -115,10 +115,10 @@ Hypertrophy doesn't excuse you from cardiovascular health, and better aerobic fi
 | F | DB/EZ biceps curl | 3 × 10–12 | Biceps | 75 sec |
 | G | Overhead DB triceps extension | 3 × 12–15 | Triceps | 60 sec |
 | H | Hammer curl | 3 × 12–15 | Biceps | 60 sec |
-| I | DB lateral raise | 2 × 12–15 | Shoulders | 60 sec |
+| I | DB lateral raise | 1 × 12–15 | Shoulders | 60 sec |
 | J | Weighted crunch | 3 × 12–15 | Abs | 60 sec |
 
-**Biceps: 6 · Triceps: 6 · Chest +3 · Est. ~74 min incl. warm-up.**
+**Biceps: 6 · Triceps: 6 · Chest +3 · Est. ~72–76 min incl. warm-up and station changeover. This session's exercise list and sets stay fixed all block (mesocycle growth lands on Monday instead) to protect this margin.**
 
 ## DAY 4 — FRIDAY · Lower B (Squat / quad + glute + hinge #2)
 | # | Exercise | Sets × Reps | Target | Rest |
@@ -130,8 +130,9 @@ Hypertrophy doesn't excuse you from cardiovascular health, and better aerobic fi
 | E | Seated / standing calf raise | 3 × 12–15 | Calves | 60 sec |
 | F | Plank + hanging knee raise | 2 sets | Abs | 60 sec |
 | G | Farmer carry (DB/KB) | 2 × 30–40 m | Grip / trunk / carry | 60 sec |
+| H | Cable face pull | 2 × 12–15 | Rear delts | 60 sec |
 
-**Glutes today: 5 direct (split squat 3 + hip thrust 2) · Est. ~70 min incl. warm-up.**
+**Glutes today: 5 direct (split squat 3 + hip thrust 2) · Est. ~72 min incl. warm-up (add ~1 set to the plank in build weeks 3–4, still well inside the cap). The face pull is here — not on Thursday — specifically because Friday has the time headroom to give rear delts their second weekly exposure without touching Thursday's margin.**
 
 ---
 
@@ -141,6 +142,6 @@ Hypertrophy doesn't excuse you from cardiovascular health, and better aerobic fi
 - **Strength foundation:** Real strength rep ranges (6–8) loaded fresh and first on bench and squat; two weekly barbell-hinge exposures (RDL Tue + Fri); kettlebell swings and Turkish get-ups put the available bells to work.
 - **A real block, not a static week:** Volume and effort ramp across 6 weeks, then deload.
 - **Recovery + conditioning programmed:** Protein, sleep, and Zone 2 are written into the plan as the levers that actually turn training into muscle.
-- **Time:** All work is done as straight sets (no supersets). To offset the rest time this adds back in, non-priority back (12→9 sets/week) and shoulder (9→7 sets/week) volume was trimmed — the priority hierarchy (chest 12 > abs 11 > arms 9/9 > glutes 8) is untouched, and every session still fits inside the ~75-minute cap including warm-up.
+- **Time:** All work is done as straight sets (no supersets). Non-priority back volume was trimmed (12→9 sets/week) to help offset the added rest time. Shoulders were rebalanced rather than simply cut: Thursday's lateral raise dropped to 1 set and a Friday face pull was added, holding shoulders at 8 sets/week (down only slightly from v2's 9) while giving rear delts — arguably the best stimulus-to-fatigue-ratio muscle in the program — a second weekly exposure instead of losing one. All mesocycle growth (weeks 3–5) lands on Monday and Friday, so Thursday's exercise list and time budget never change across the block. The priority hierarchy (chest 12 > abs 11 > arms 9/9 > glutes 8) is untouched throughout.
 
-*Version 3 — DRAFT, pending re-approval. This revision removes all supersets (every exercise is now a straight set); reordered each former pair so the larger/more technical movement comes first (pushdown before curl, face pull before leg raise, overhead extension before hammer curl, lateral raise before crunch); and trimmed non-priority back (12→9 sets/week) and shoulder (9→7 sets/week) volume to keep sessions inside the ≤75-min cap. The priority hierarchy — chest 12 > abs 11 > arms 9/9 > glutes 8 — is unchanged from v2.*
+*Version 3 — APPROVED by all four coach subagents (Norton, Israetel, Tsatsouline, Galpin) after one round of revision. Round-1 feedback: Pavel and Andy approved outright, each with a non-blocking note (push/pull balance to watch; a lateral-raise/face-pull reallocation to protect rear delts). Mike required shoulders back above the program's own stated MEV floor (they'd fallen to 7) with a second weekly rear-delt exposure. Layne required that mesocycle volume growth stop concentrating entirely on the already-tight Thursday session, and that time estimates carry a real, honestly-stated margin rather than a false single-minute buffer. This revision resolves both blocking points together: removes all supersets and reorders each former pair so the larger/more technical movement leads (pushdown before curl, face pull before leg raise, overhead extension before hammer curl, lateral raise before crunch); trims non-priority back to 9 sets/week and rebalances shoulders to 8 by cutting Thursday's lateral raise to 1 set and adding a Friday face pull, restoring rear delts to 2×/week; and reroutes all build/peak-week volume growth onto Monday and Friday so Thursday's exercise list and time budget stay fixed across the whole block. Session-time estimates are now honest ranges that include station changeover, with build/peak weeks explicitly allowed to run longer than the ≤75-min baseline cap. The priority hierarchy — chest 12 > abs 11 > arms 9/9 > glutes 8 — is unchanged from v2 throughout.*

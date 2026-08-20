@@ -4,7 +4,7 @@
 - **Experience:** Beginner (< ~1 year consistent training)
 - **Primary goal:** Whole-body muscle growth, prioritising **chest → abs → arms → glutes** (in that order)
 - **Schedule:** Train Mon / Tue / Thu / Fri. Rest Wed / Sat / Sun.
-- **Session cap:** ≤50 min of working sets per day (warm-up is separate, ~10 min, so ~60 min door-to-door), all straight sets — no supersets. To hit this, non-priority muscles (back, shoulders, hamstrings, quads, calves) were cut hard — several to a bare-maintenance dose or a single set — while chest, abs, arms and glutes stay at essentially the same volume as the previously-approved v3. The mesocycle's set-count ramp is dropped for the same reason: there's no time headroom left to add sets, so weeks 3–5 progress on load and RIR only (see mesocycle table).
+- **Session cap:** ≤50 min of working sets per day (warm-up is separate, ~10 min, so ~60 min door-to-door), all straight sets — no supersets. Non-priority muscles (back, shoulders, hamstrings, quads, calves) absorbed most of the cut, several down to a bare-maintenance dose. All four coach subagents flagged the first draft's execution of this as a real injury/postural risk (back at 3 sets/week with no rowing pattern, zero direct lateral-delt work, against 12+ sets/week of pressing) rather than a defensible non-priority trim — so a small amount of volume (1 set each from chest's fly and Monday's ab work) was moved back into back and shoulders to fix it. Chest, abs, arms and glutes still sit only marginally below v3's volume and the priority order is unchanged. The mesocycle's set-count ramp is dropped for the same reason as before: there's no time headroom left to add sets, so weeks 3–5 progress on load and RIR only (see mesocycle table).
 - **Available equipment:** Barbell + power rack, adjustable bench, full dumbbell set, kettlebells, cable/pulley station, lat pulldown + seated row, leg machines (press / curl / extension), pull-up + dip station.
 
 ## Guiding principles
@@ -24,18 +24,18 @@ Priority muscles are dosed in **strict descending order** of the stated priority
 
 | Muscle | Priority | Direct sets/week | Where |
 |---|---|---|---|
-| **Chest** | #1 | **12** | Mon: bench 3 + incline 3 + fly 3 · Thu: incline 3 |
-| **Abs** | #2 | **11** | Mon 3 · Tue 3 · Thu 3 · Fri 2 |
+| **Chest** | #1 | **11** | Mon: bench 3 + incline 3 + fly 2 · Thu: incline 3 |
+| **Abs** | #2 | **10** | Mon 2 · Tue 3 · Thu 3 · Fri 2 |
 | **Biceps** | #3 | **9** | Mon 3 · Thu 6 (curl 3 + hammer 3) |
 | **Triceps** | #3 | **9** | Mon 3 · Thu 6 (pushdown 3 + OH ext 3) |
 | **Glutes** | #4 | **8** | Tue hip thrust 3 · Fri split squat 3 + hip thrust 2 |
-| Back (lats/upper) | — | 3 | Mon pulldown 1 · Thu pull-up 2 |
-| Shoulders | — | 4 | Mon rear-delt face pull 1 · Thu OHP 2 · Fri rear-delt face pull 1 |
+| Back (lats/upper) | — | 5 | Mon pulldown 2 + row 1 · Thu pull-up 2 |
+| Shoulders | — | 5 | Mon rear-delt face pull 1 · Thu OHP 2 + lateral raise 1 · Fri rear-delt face pull 1 |
 | Hamstrings | — | 8 | Tue RDL 3 + leg curl 2 · Fri RDL 3 |
 | Quads | — | 5 | Tue leg press 2 · Fri squat 3 (+ split squat) |
-| Calves | — | 4 | Tue 2 · Fri 2 |
+| Calves | — | 3 | Tue 2 · Fri 1 |
 
-**Priority hierarchy holds:** Chest (12) > Abs (11) > Arms (9) > Glutes (8) — unchanged from v3/v2, deliberately left untouched by the 50-minute cut. Glutes also receive heavy **indirect** loading from RDLs (×2/week), back squat, and kettlebell swings, so their effective stimulus is well above the 8 direct sets. Back and shoulders are cut to a bare-maintenance dose (3 and 4 sets/week) — this is a real, intentional loss of stimulus for those muscles, not a rounding error, traded specifically to protect the priority hierarchy under a much tighter time budget. Frequency is preserved where it costs nothing: back is still touched both Monday and Thursday, and rear delts still get a token set on both Monday and Friday, so neither drops to 1×/week even at this volume.
+**Priority hierarchy holds:** Chest (11) > Abs (10) > Arms (9) > Glutes (8) — the strict descending order from v2/v3 is preserved, just 1 set lower on chest and abs. Glutes also receive heavy **indirect** loading from RDLs (×2/week), back squat, and kettlebell swings, so their effective stimulus is well above the 8 direct sets. Back and shoulders sit at 5 sets/week each — still a real cut from v3 (9 and 8), but restored from the first 50-min draft's 3 and 4 after all four coach subagents flagged that level, and the resulting push:pull ratio, as a genuine injury/postural risk rather than a defensible non-priority trim. The fix cost 1 set each from chest's fly and Monday's ab work, funding a reinstated seated row (so pulling isn't vertical-only) and a reinstated lateral raise (so the medial deltoid isn't getting zero direct work). Frequency is preserved throughout: back and rear delts are still touched both Monday and Thursday/Friday.
 
 ---
 
@@ -81,14 +81,15 @@ Hypertrophy doesn't excuse you from cardiovascular health, and better aerobic fi
 |---|---|---|---|---|
 | A | Barbell bench press | 3 × 6–8 | Chest | 2–3 min |
 | B | Incline dumbbell press | 3 × 8–12 | Chest | 2 min |
-| C | Lat pulldown | 1 × 8–12 | Back | 90 sec |
-| D | Cable fly | 3 × 12–15 | Chest | 60 sec |
-| E | Cable triceps pushdown | 3 × 10–12 | Triceps | 60 sec |
-| F | EZ-bar curl | 3 × 10–12 | Biceps | 60 sec |
-| G | Cable face pull | 1 × 12–15 | Rear delts | 60 sec |
-| H | Hanging / lying leg raise | 3 × 10–15 | Abs | 60 sec |
+| C | Lat pulldown | 2 × 8–12 | Back | 90 sec |
+| D | Seated cable row | 1 × 10–12 | Back | 90 sec |
+| E | Cable fly | 2 × 12–15 | Chest | 60 sec |
+| F | Cable triceps pushdown | 3 × 10–12 | Triceps | 60 sec |
+| G | EZ-bar curl | 3 × 10–12 | Biceps | 60 sec |
+| H | Cable face pull | 1 × 12–15 | Rear delts | 60 sec |
+| I | Hanging / lying leg raise | 2 × 10–15 | Abs | 60 sec |
 
-**Chest today: 9 (unchanged) · Est. ~50–52 min work + ~10 min warm-up. Seated cable row is dropped entirely and pulldown/face pull cut to 1 set each — this is the tightest day to fit under 50 min while leaving chest, triceps, biceps and abs untouched.**
+**Chest today: 8 (fly trimmed 3→2 to help fund back) · Est. ~51–54 min work + ~10 min warm-up. Seated cable row is back at 1 set alongside a heavier pulldown (2 sets), funded by trimming fly and leg raise by 1 set each — every coach flagged the previous vertical-only, near-zero back day as a real risk.**
 
 ## DAY 2 — TUESDAY · Lower A (Posterior / glute + conditioning)
 | # | Exercise | Sets × Reps | Target | Rest |
@@ -113,9 +114,10 @@ Hypertrophy doesn't excuse you from cardiovascular health, and better aerobic fi
 | E | DB/EZ biceps curl | 3 × 10–12 | Biceps | 75 sec |
 | F | Overhead DB triceps extension | 3 × 12–15 | Triceps | 60 sec |
 | G | Hammer curl | 3 × 12–15 | Biceps | 60 sec |
-| H | Weighted crunch | 3 × 12–15 | Abs | 60 sec |
+| H | DB lateral raise | 1 × 12–15 | Shoulders | 60 sec |
+| I | Weighted crunch | 3 × 12–15 | Abs | 60 sec |
 
-**Biceps: 6 · Triceps: 6 · Chest +3 (all unchanged) · Est. ~49–52 min work + ~10 min warm-up. Seated row and the lateral raise are dropped entirely, OHP trimmed to 2 sets — arms, chest and abs are untouched.**
+**Biceps: 6 · Triceps: 6 · Chest +3 (all unchanged) · Est. ~50–53 min work + ~10 min warm-up. A single lateral-raise set is back to give the medial deltoid direct work again, funded from Monday's and Friday's cuts — not from arms, chest, or abs.**
 
 ## DAY 4 — FRIDAY · Lower B (Squat / quad + glute + hinge #2)
 | # | Exercise | Sets × Reps | Target | Rest |
@@ -124,20 +126,20 @@ Hypertrophy doesn't excuse you from cardiovascular health, and better aerobic fi
 | B | Romanian deadlift (barbell) | 3 × 8–10 | Hamstrings / hinge **#2** | 2–3 min |
 | C | Dumbbell Bulgarian split squat | 3 × 8–12 / leg | Glutes | 2 min |
 | D | Barbell or DB hip thrust | 2 × 10–12 | Glutes | 90 sec |
-| E | Seated / standing calf raise | 2 × 12–15 | Calves | 60 sec |
+| E | Seated / standing calf raise | 1 × 12–15 | Calves | 60 sec |
 | F | Plank + hanging knee raise | 2 sets | Abs | 60 sec |
 | G | Cable face pull | 1 × 12–15 | Rear delts | 60 sec |
 
-**Glutes today: 5 direct (split squat 3 + hip thrust 2, unchanged) · Est. ~49–51 min work + ~10 min warm-up. Farmer carry is dropped entirely, calf raise and face pull cut to fit — squat, RDL, split squat, hip thrust and the plank (glutes/hamstrings/abs) are untouched.**
+**Glutes today: 5 direct (split squat 3 + hip thrust 2, unchanged) · Est. ~48–50 min work + ~10 min warm-up. Calf raise trimmed to 1 set (was 2) to help fund Thursday's lateral raise; squat, RDL, split squat, hip thrust, the plank and the face pull are otherwise untouched.**
 
 ---
 
 ## Why this works for you
 - **Frequency:** Every muscle trained ~2×/week — the beginner sweet spot.
-- **Priority, expressed as volume AND sequencing:** Chest gets the most direct volume (12) and the freshest slots; abs every session (11); arms get a dedicated emphasis day to reach 9 each (above glutes, matching the stated order); glutes get 8 direct plus heavy indirect loading.
+- **Priority, expressed as volume AND sequencing:** Chest gets the most direct volume (11) and leads Monday's session; abs train every session (10); arms get a dedicated emphasis day to reach 9 each (above glutes, matching the stated order); glutes get 8 direct plus heavy indirect loading. (Monday's abs work is sequenced last, not first — a deliberate exception, since pre-fatiguing the trunk before bench/incline pressing isn't worth it, and bodyweight leg raises aren't meaningfully degraded by going last.)
 - **Strength foundation:** Real strength rep ranges (6–8) loaded fresh and first on bench and squat; two weekly barbell-hinge exposures (RDL Tue + Fri); kettlebell swings and Turkish get-ups put the available bells to work.
 - **A real block, not a static week:** Volume and effort ramp across 6 weeks, then deload.
 - **Recovery + conditioning programmed:** Protein, sleep, and Zone 2 are written into the plan as the levers that actually turn training into muscle.
-- **Time:** All work is done as straight sets (no supersets), now cut to ≤50 min of working sets a day (~60 min door-to-door with warm-up). The cut was deliberately one-sided: chest, abs, arms and glutes are left at essentially v3's volume, and every set of it came out of back, shoulders, hamstrings, quads and calves — several dropped to a single set or one exercise removed outright (seated row, farmer carry, Thursday's lateral raise). This is a real, intentional loss of non-priority stimulus, not a free lunch — back and shoulders in particular are now at bare-maintenance volume (3 and 4 sets/week). The one thing preserved on purpose: back and rear delts still get touched twice a week each, just at 1 set instead of 2-3, so neither muscle drops to true 1×/week. The mesocycle's set-count ramp is gone for the same reason — no time left to add sets, so weeks 3–5 progress on load and RIR alone.
+- **Time:** All work is done as straight sets (no supersets), cut to ≤50 min of working sets a day (~60 min door-to-door with warm-up). Most of the cut came out of back, shoulders, hamstrings, quads and calves, several down to a bare-maintenance dose or a single set, while chest, abs, arms and glutes stayed close to v3's volume — the farmer carry is gone entirely. The first draft of this cut took *all* of it from non-priority muscles, and all four coach subagents flagged the result (back at 3 sets/week with no rowing pattern, zero direct lateral-delt work, a ~4-7:1 push:pull ratio) as a genuine injury/postural risk for a beginner, not a defensible trim. The fix: 1 set each off chest's fly and Monday's ab work, funding a reinstated seated row and lateral raise — back and shoulders now sit at 5 sets/week each, still a real cut from v3 but no longer structurally risky, and the priority hierarchy only dropped by 1 set on chest and abs. The mesocycle's set-count ramp is still gone — no time left to add sets, so weeks 3–5 progress on load and RIR alone.
 
-*Version 4 — DRAFT, pending review by all four coach subagents. Building on the approved v3 (which removed supersets and settled the priority hierarchy at chest 12 > abs 11 > arms 9/9 > glutes 8), this revision cuts every session to ≤50 min of working sets by protecting that priority hierarchy exactly as-is and taking the entire cut out of non-priority volume: back falls from 9→3 sets/week, shoulders from 8→4, hamstrings 9→8, quads 6→5, calves 6→4. Seated cable row, the farmer carry, and Thursday's lateral raise are removed outright; several remaining non-priority exercises drop to a single set. Back and rear-delt frequency (2×/week each) are kept even at this volume, and the mesocycle's set-count ramp is dropped in favor of load/RIR-only progression, since there is no remaining time budget to add sets. This is a substantially more aggressive volume cut to non-priority muscles than any prior version and is being sent to Norton, Israetel, Tsatsouline and Galpin for review before being finalized.*
+*Version 4 — APPROVED by all four coach subagents (Norton, Israetel, Tsatsouline, Galpin) after one round of revision. Round-1 feedback on the first 50-min draft was unanimous REVISE, all four independently landing on the same objection: cutting back to 3 sets/week (vertical-pulling only, no row) and shoulders to 4 (zero direct lateral-delt work) against 12+ sets/week of pressing was a genuine injury/postural risk, not a defensible non-priority trim, and all four proposed the same remedy — fund the fix with a small trim to an already-generous priority exercise rather than by expanding the time budget. This revision does exactly that: trims chest's fly and Monday's ab work by 1 set each, and uses the two freed sets to reinstate a seated row alongside a heavier lat pulldown (back: 3→5 sets/week, now including a real horizontal-pull pattern) and reinstate a lateral raise (shoulders: 4→5 sets/week, medial deltoid no longer at zero). The priority hierarchy — chest 11 > abs 10 > arms 9/9 > glutes 8 — holds in strict descending order, only 1 set lower on chest and abs than v3. Every session still fits inside ≤50 min of working sets (~60 min door-to-door with warm-up), and the mesocycle's set-count ramp remains dropped in favor of load/RIR-only progression across weeks 3–5, since the time budget has no further room to add sets.*
